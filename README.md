@@ -1,2 +1,3 @@
 # nerd-turista
- Site para o trabalho da faculdade usando apenas html.
+ Site criado para o trabalho de web do primeiro semestre.
+ Site feito usando apenas HTML.
